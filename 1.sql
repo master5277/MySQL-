@@ -1,0 +1,2 @@
+SELECT FIELD_IN_SET('mm','gg,jj,mm')
+FROM DUAL;
